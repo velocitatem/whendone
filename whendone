@@ -1,0 +1,2 @@
+#!/bin/bash
+cat /usr/bin/done-opt/res | shuf -n 1 | festival --tts
