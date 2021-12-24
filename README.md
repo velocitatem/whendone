@@ -29,6 +29,7 @@ mkfs.ext4 /dev/sdx && whendone
 Whendone comes with various configurations which you can modify easily
 - sassy
 - normal
-- technical
 - scifi
+
+Any contributions are welcome!
 
